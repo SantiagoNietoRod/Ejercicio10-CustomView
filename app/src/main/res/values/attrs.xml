@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MiEditText">
+        <attr name="contenido" format="string"/>
+        <attr name="sytle" format="boolean"/>
+    </declare-styleable>
+</resources>
